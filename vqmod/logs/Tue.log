@@ -1,0 +1,231 @@
+---------- Date: 2014-04-08 03:25:20 ~ IP : 66.249.66.119 ----------
+REQUEST URI : /index.php?route=product/product&amp;path=61_72&amp;product_id=234
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/hide-tax.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+SEARCH NOT FOUND (ABORTING MOD): <span class="price-tax"><?php echo $text_tax; ?> <?php echo $tax; ?></span><br />
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-04-08 08:34:21 ~ IP : 61.196.230.75 ----------
+REQUEST URI : /index.php?route=product/search&amp;search=V17021
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/hide-tax.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+SEARCH NOT FOUND (ABORTING MOD): <br />
+						<span class="price-tax"><?php echo $text_tax; ?> <?php echo $product['tax']; ?></span>
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/remove_wishlist_and_compare.xml
+   id        : Remove Wishlist and Compare Features
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : VINDHYAVART
+SEARCH NOT FOUND (ABORTING MOD): <div class="wishlist"><a onclick="addToWishList('<?php echo $product['product_id']; ?>');"><?php echo $button_wishlist; ?></a></div>
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-04-08 08:34:33 ~ IP : 61.196.230.75 ----------
+REQUEST URI : /index.php?route=product/search&amp;search=V17021&amp;category_id=69
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/hide-tax.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+SEARCH NOT FOUND (ABORTING MOD): <br />
+						<span class="price-tax"><?php echo $text_tax; ?> <?php echo $product['tax']; ?></span>
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/remove_wishlist_and_compare.xml
+   id        : Remove Wishlist and Compare Features
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : VINDHYAVART
+SEARCH NOT FOUND (ABORTING MOD): <div class="wishlist"><a onclick="addToWishList('<?php echo $product['product_id']; ?>');"><?php echo $button_wishlist; ?></a></div>
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-04-08 08:34:38 ~ IP : 61.196.230.75 ----------
+REQUEST URI : /index.php?route=product/search&amp;search=V1717&amp;category_id=69
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/hide-tax.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+SEARCH NOT FOUND (ABORTING MOD): <br />
+						<span class="price-tax"><?php echo $text_tax; ?> <?php echo $product['tax']; ?></span>
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/remove_wishlist_and_compare.xml
+   id        : Remove Wishlist and Compare Features
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : VINDHYAVART
+SEARCH NOT FOUND (ABORTING MOD): <div class="wishlist"><a onclick="addToWishList('<?php echo $product['product_id']; ?>');"><?php echo $button_wishlist; ?></a></div>
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-04-08 08:34:45 ~ IP : 61.196.230.75 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=61_69
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/hide-tax.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+SEARCH NOT FOUND (ABORTING MOD): <br />
+						<span class="price-tax"><?php echo $text_tax; ?> <?php echo $product['tax']; ?></span>
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/remove_wishlist_and_compare.xml
+   id        : Remove Wishlist and Compare Features
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : VINDHYAVART
+SEARCH NOT FOUND (ABORTING MOD): <div class="product-compare"><a href="<?php echo $compare; ?>" id="compare-total"><?php echo $text_compare; ?></a></div>
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-04-08 12:46:20 ~ IP : 157.55.33.99 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=218
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/hide-tax.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+SEARCH NOT FOUND (ABORTING MOD): <span class="price-tax"><?php echo $text_tax; ?> <?php echo $tax; ?></span><br />
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-04-08 12:47:18 ~ IP : 157.55.33.99 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=61_69&amp;page=5
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/hide-tax.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+SEARCH NOT FOUND (ABORTING MOD): <br />
+						<span class="price-tax"><?php echo $text_tax; ?> <?php echo $product['tax']; ?></span>
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/remove_wishlist_and_compare.xml
+   id        : Remove Wishlist and Compare Features
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : VINDHYAVART
+SEARCH NOT FOUND (ABORTING MOD): <div class="product-compare"><a href="<?php echo $compare; ?>" id="compare-total"><?php echo $text_compare; ?></a></div>
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-04-08 12:49:38 ~ IP : 157.55.33.99 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=257
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/hide-tax.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+SEARCH NOT FOUND (ABORTING MOD): <span class="price-tax"><?php echo $text_tax; ?> <?php echo $tax; ?></span><br />
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-04-08 13:19:00 ~ IP : 157.56.229.188 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=166
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/hide-tax.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+SEARCH NOT FOUND (ABORTING MOD): <span class="price-tax"><?php echo $text_tax; ?> <?php echo $tax; ?></span><br />
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-04-08 13:19:01 ~ IP : 157.56.229.188 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=56
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/hide-tax.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+SEARCH NOT FOUND (ABORTING MOD): <span class="price-tax"><?php echo $text_tax; ?> <?php echo $tax; ?></span><br />
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-04-08 13:19:02 ~ IP : 157.56.229.188 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=61_69&amp;page=4
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/hide-tax.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+SEARCH NOT FOUND (ABORTING MOD): <br />
+						<span class="price-tax"><?php echo $text_tax; ?> <?php echo $product['tax']; ?></span>
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/remove_wishlist_and_compare.xml
+   id        : Remove Wishlist and Compare Features
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : VINDHYAVART
+SEARCH NOT FOUND (ABORTING MOD): <div class="product-compare"><a href="<?php echo $compare; ?>" id="compare-total"><?php echo $text_compare; ?></a></div>
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-04-08 15:15:53 ~ IP : 66.249.66.103 ----------
+REQUEST URI : /index.php?route=product/product&amp;path=61_72&amp;product_id=235
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/hide-tax.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+SEARCH NOT FOUND (ABORTING MOD): <span class="price-tax"><?php echo $text_tax; ?> <?php echo $tax; ?></span><br />
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-04-08 17:12:24 ~ IP : 66.249.66.114 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=66
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/hide-tax.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+SEARCH NOT FOUND (ABORTING MOD): <br />
+						<span class="price-tax"><?php echo $text_tax; ?> <?php echo $product['tax']; ?></span>
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/remove_wishlist_and_compare.xml
+   id        : Remove Wishlist and Compare Features
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : VINDHYAVART
+SEARCH NOT FOUND (ABORTING MOD): <div class="product-compare"><a href="<?php echo $compare; ?>" id="compare-total"><?php echo $text_compare; ?></a></div>
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-04-08 19:21:55 ~ IP : 113.172.227.222 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=258
+MOD DETAILS:
+   modFile   : /home/ho3f937/public_html/vqmod/xml/hide-tax.xml
+   id        : Hide Cart Button
+   version   : 1.0
+   vqmver    : 1.0.8
+   author    : Ariel Orozco
+SEARCH NOT FOUND (ABORTING MOD): <span class="price-tax"><?php echo $text_tax; ?> <?php echo $tax; ?></span><br />
+
+----------------------------------------------------------------------
+
+

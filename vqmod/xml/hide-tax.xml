@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+        <id>Hide Cart Button</id>
+        <version>1.0</version>
+        <vqmver>1.0.8</vqmver>
+        <author>Ariel Orozco</author>
+        <file name="catalog/view/theme/*/template/product/product.tpl">
+                <operation>
+                        <search position="replace"><![CDATA[<span class="price-tax"><?php echo $text_tax; ?> <?php echo $tax; ?></span><br />]]></search>
+                        <add><![CDATA[]]></add>
+                </operation>
+        </file>
+        <file name="catalog/view/theme/*/template/product/category.tpl">
+                <operation>
+                        <search position="replace"><![CDATA[<br />
+						<span class="price-tax"><?php echo $text_tax; ?> <?php echo $product['tax']; ?></span>]]></search>
+                        <add><![CDATA[]]></add>
+                </operation>
+        </file>        
+        <file name="catalog/view/theme/*/template/product/search.tpl">
+                <operation>
+                        <search position="replace"><![CDATA[<br />
+						<span class="price-tax"><?php echo $text_tax; ?> <?php echo $product['tax']; ?></span>]]></search>
+                        <add><![CDATA[]]></add>
+                </operation>         
+        </file>
+        <file name="catalog/view/theme/*/template/module/special.tpl">
+                <operation>
+                        <search position="replace"><![CDATA[<br /><span class="price-tax"><?php echo $text_tax; ?> <?php echo $product['tax']; ?></span>]]></search>
+                        <add><![CDATA[]]></add>
+                </operation>
+        </file>
+		<file name="catalog/view/theme/*/template/module/manufacturer_info.tpl">
+                <operation>
+                        <search position="replace"><![CDATA[<br /><span class="price-tax"><?php echo $text_tax; ?> <?php echo $product['tax']; ?></span>]]></search>
+                        <add><![CDATA[]]></add>
+                </operation>
+        </file>
+</modification>

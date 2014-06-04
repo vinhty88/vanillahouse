@@ -1,0 +1,6 @@
+[01-Aug-2013 13:29:30 Asia/Bangkok] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[01-Aug-2013 13:29:30 Asia/Bangkok] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[04-Aug-2013 10:32:25 Asia/Bangkok] PHP Warning:  mail() has been disabled for security reasons in /home/ho3f937/public_html/php/subscribe.php on line 51
+[06-Aug-2013 18:07:15 Asia/Bangkok] PHP Warning:  mail() has been disabled for security reasons in /home/ho3f937/public_html/php/contact.php on line 87
+[06-Aug-2013 18:07:19 Asia/Bangkok] PHP Warning:  mail() has been disabled for security reasons in /home/ho3f937/public_html/php/contact.php on line 87
+[06-Aug-2013 23:10:23 Asia/Bangkok] PHP Warning:  mail() has been disabled for security reasons in /home/ho3f937/public_html/php/subscribe.php on line 51

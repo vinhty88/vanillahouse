@@ -1,0 +1,26 @@
+[20-Jan-2014 15:39:29 Asia/Bangkok] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/ho3f937/public_html/system/database/mysql.php on line 6
+[20-Jan-2014 15:39:29 Asia/Bangkok] PHP Notice:  Error: Could not make a database link using ho3f937@localhost in /home/ho3f937/public_html/system/database/mysql.php on line 7
+[20-Jan-2014 15:39:29 Asia/Bangkok] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/ho3f937/public_html/system/database/mysql.php on line 10
+[20-Jan-2014 15:39:29 Asia/Bangkok] PHP Notice:  Error: Could not connect to database ho3f937_vanilla in /home/ho3f937/public_html/system/database/mysql.php on line 11
+[20-Jan-2014 15:39:29 Asia/Bangkok] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/ho3f937/public_html/system/database/mysql.php on line 14
+[20-Jan-2014 15:39:29 Asia/Bangkok] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/ho3f937/public_html/system/database/mysql.php on line 15
+[20-Jan-2014 15:39:29 Asia/Bangkok] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/ho3f937/public_html/system/database/mysql.php on line 16
+[20-Jan-2014 15:39:29 Asia/Bangkok] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/ho3f937/public_html/system/database/mysql.php on line 17
+[20-Jan-2014 15:39:29 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in /home/ho3f937/public_html/index.php on line 54
+[20-Jan-2014 15:39:29 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in /home/ho3f937/public_html/index.php on line 63
+[20-Jan-2014 15:39:29 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/ho3f937/public_html/index.php on line 63
+[20-Jan-2014 15:39:29 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in /home/ho3f937/public_html/index.php on line 71
+[20-Jan-2014 15:39:29 Asia/Bangkok] PHP Fatal error:  Call to a member function get() on a non-object in /home/ho3f937/public_html/index.php on line 105
+[22-Jan-2014 14:49:23 Asia/Bangkok] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/ho3f937/public_html/system/database/mysql.php on line 6
+[22-Jan-2014 14:49:23 Asia/Bangkok] PHP Notice:  Error: Could not make a database link using ho3f937@localhost in /home/ho3f937/public_html/system/database/mysql.php on line 7
+[22-Jan-2014 14:49:23 Asia/Bangkok] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/ho3f937/public_html/system/database/mysql.php on line 10
+[22-Jan-2014 14:49:23 Asia/Bangkok] PHP Notice:  Error: Could not connect to database ho3f937_vanilla in /home/ho3f937/public_html/system/database/mysql.php on line 11
+[22-Jan-2014 14:49:23 Asia/Bangkok] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/ho3f937/public_html/system/database/mysql.php on line 14
+[22-Jan-2014 14:49:23 Asia/Bangkok] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/ho3f937/public_html/system/database/mysql.php on line 15
+[22-Jan-2014 14:49:23 Asia/Bangkok] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/ho3f937/public_html/system/database/mysql.php on line 16
+[22-Jan-2014 14:49:23 Asia/Bangkok] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/ho3f937/public_html/system/database/mysql.php on line 17
+[22-Jan-2014 14:49:23 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in /home/ho3f937/public_html/index.php on line 54
+[22-Jan-2014 14:49:23 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in /home/ho3f937/public_html/index.php on line 63
+[22-Jan-2014 14:49:23 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/ho3f937/public_html/index.php on line 63
+[22-Jan-2014 14:49:23 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in /home/ho3f937/public_html/index.php on line 71
+[22-Jan-2014 14:49:23 Asia/Bangkok] PHP Fatal error:  Call to a member function get() on a non-object in /home/ho3f937/public_html/index.php on line 105
